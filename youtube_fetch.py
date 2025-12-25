@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "AIzaSyDU3mh3GPBcDQwTB2c7laSN1Mzr4McsshU"
+API_KEY = "YOUR_API_KEY"
 
 # 1. Search for n8n workflow videos
 search_url = "https://www.googleapis.com/youtube/v3/search"
